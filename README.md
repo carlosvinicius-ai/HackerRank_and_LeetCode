@@ -4,5 +4,5 @@ Repositorio criado para compartilhar resolução dos desafios propostos no site 
 
 ## :fire: Repositorios
 
-- [HackerRank:](https://github.com/carlosvinicius-ai/HackerHank_and_LeetCode/tree/master/HackerRank)
-- [LeetCode:](https://github.com/carlosvinicius-ai/HackerHank_and_LeetCode/tree/master/LeetCode)
+- [HackerRank:](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/tree/master/HackerRank)
+- [LeetCode:](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/tree/master/LeetCode)
