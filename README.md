@@ -1,6 +1,6 @@
 # :art: HackerRank e LeetCode
 
-Repositorio criado para compartilhar resolução dos desafios propostos no site do [LeetCode](https://leetcode.com) e no site do [HackerRank](https://www.hackerrank.com)
+Repositorio criado para compartilhar resolução dos desafios propostos no site do [LeetCode](https://leetcode.com) e no site do [HackerRank](https://www.hackerrank.com) e no site da [beecrowd](https://judge.beecrowd.com/en)
 
 ## :fire: Repositorios
 
