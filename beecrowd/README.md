@@ -37,8 +37,8 @@ Beecrowd é uma plataforma onde tem exercícios e desafios práticos para treina
 
 | Status | Número | Projeto |
 |--------|--------|---------|
-|   ✅   |  1000  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/HelloWorld.py) |
-|   🚧   |  1001  | [Projeto]() |
+|   ✅   |  1000  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1000HelloWorld.py) |
+|   🚧   |  1001  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1001ExtremelyBasic.py) |
 |   🔒️   |  1002  | [Projeto]() |
 |   🔒️   |  1003  | [Projeto]() |
 |   🔒️   |  1004  | [Projeto]() |
