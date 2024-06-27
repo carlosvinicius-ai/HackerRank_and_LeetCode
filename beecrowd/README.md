@@ -19,9 +19,9 @@ Beecrowd é uma plataforma onde tem exercícios e desafios práticos para treina
 |   ✅   |  1008  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/tree/master/beecrowd/Java/1008-salary) |
 |   ✅   |  1009  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/tree/master/beecrowd/Java/1009-Salary-With-Bonus) |
 |   ✅   |  1010  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/tree/master/beecrowd/Java/1010-simple-calculate) |
-|   🚧   |  1011  | [Projeto]() |
-|   🔒️   |  1012  | [Projeto]() |
-|   🔒️   |  1013  | [Projeto]() |
+|   ✅   |  1011  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/tree/master/beecrowd/Java/1011-sphere) |
+|   ✅   |  1012  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/tree/master/beecrowd/Java/1012-area) |
+|   🚧   |  1013  | [Projeto]() |
 |   🔒️   |  1014  | [Projeto]() |
 |   🔒️   |  1015  | [Projeto]() |
 |   🔒️   |  1016  | [Projeto]() |
