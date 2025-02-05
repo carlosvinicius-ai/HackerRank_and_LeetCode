@@ -39,12 +39,12 @@ Beecrowd é uma plataforma onde tem exercícios e desafios práticos para treina
 |--------|--------|---------|
 |   ✅   |  1000  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1000HelloWorld.py) |
 |   ✅   |  1001  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1001ExtremelyBasic.py) |
-|   🔒️   |  1002  | [Projeto]() |
-|   🔒️   |  1003  | [Projeto]() |
-|   🔒️   |  1004  | [Projeto]() |
-|   🔒️   |  1005  | [Projeto]() |
-|   🔒️   |  1006  | [Projeto]() |
-|   🔒️   |  1007  | [Projeto]() |
+|   ✅   |  1002  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1002AreaDoCirculo.py) |
+|   ✅   |  1003  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1003SomaSimples.py) |
+|   ✅   |  1004  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1004ProdutoSimples.py) |
+|   ✅   |  1005  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1005Media1.py) |
+|   ✅   |  1006  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1006Media2.py) |
+|   🚧   |  1007  | [Projeto]() |
 |   🔒️   |  1008  | [Projeto]() |
 |   🔒️   |  1009  | [Projeto]() |
 |   🔒️   |  1010  | [Projeto]() |
