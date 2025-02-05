@@ -1,3 +1,7 @@
+# beecrowd 1002
+# https://judge.beecrowd.com/pt/problems/view/1002
+# @carlosvinicius-ai
+
 PI = 3.14159
 raio = input()
 
