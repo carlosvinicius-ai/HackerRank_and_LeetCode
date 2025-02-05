@@ -44,10 +44,20 @@ Beecrowd é uma plataforma onde tem exercícios e desafios práticos para treina
 |   ✅   |  1004  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1004ProdutoSimples.py) |
 |   ✅   |  1005  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1005Media1.py) |
 |   ✅   |  1006  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1006Media2.py) |
-|   🚧   |  1007  | [Projeto]() |
-|   🔒️   |  1008  | [Projeto]() |
-|   🔒️   |  1009  | [Projeto]() |
-|   🔒️   |  1010  | [Projeto]() |
+|   ✅   |  1007  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1007Diferenca.py) |
+|   ✅   |  1008  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1008Salario.py) |
+|   ✅   |  1009  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1009SalarioComBonus.py) |
+|   ✅   |  1010  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1010CalculoSimples.py) |
+|   ✅   |  1011  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1011Esfera.py) |
+|   ✅   |  1012  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1012Area.py) |
+|   ✅   |  1013  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1013OMaior.py) |
+|   ✅   |  1014  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1014Consumo.py) |
+|   ✅   |  1015  | [Projeto](https://github.com/carlosvinicius-ai/HackerRank_and_LeetCode/blob/master/beecrowd/Python/1015DistanciaEntreDoisPontos.py) |
+|   🚧   |  1016  | [Projeto]() |
+|   🔒️   |  1017  | [Projeto]() |
+|   🔒️   |  1018  | [Projeto]() |
+|   🔒️   |  1019  | [Projeto]() |
+|   🔒️   |  1020  | [Projeto]() |
 
 
 ## Contatos 📱
